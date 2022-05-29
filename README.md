@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shannonrandhawa
 - 👀 I’m interested in code & law
-- 🌱 I’m currently learning solidity & rust.
-- 💞️ I’m looking to collaborate on anything atm :)
+- 🌱 I’m currently learning golang & algorithmic structures
+- 💞️ Not looking to collaborate atm
 - 📫 How to reach me --- send me an email! shannonrandhawa@uchastings.eu
 
 <!---
